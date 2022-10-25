@@ -1,4 +1,4 @@
-# Sage + Archer Code Puzzle Solution
+# Advent Of Code 2018 Day 8 Code Puzzle Solution
 The puzzle was fun! Solved it with recursive approach.
 
 The extractor module is responsible for extracting the tree and the Node represents a single node in the tree.
